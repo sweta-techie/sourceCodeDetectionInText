@@ -1,0 +1,202 @@
+[
+    {
+        "Text": "def foo():\n    print(\"Hello, world!\")",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "The quick brown fox jumps over the lazy dog.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "public static void main(String[] args) {\n    System.out.println(\"Hello, World!\");\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "In the beginning God created the heavens and the earth.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "console.log(\"Hello, world!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "#include <iostream>\nint main() {\n    std::cout << \"Hello, World!\";\n    return 0;\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "To be, or not to be, that is the question:",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "printf(\"Hello, World!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "All that glitters is not gold.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "if __name__ == \"__main__\":\n    print(\"Hello, World!\")",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "JavaScript is a versatile programming language.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "def add(a, b):\n    return a + b",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Java and Python are popular programming languages.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "public int add(int a, int b) {\n    return a + b;\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Python was created by Guido van Rossum and first released in 1991.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "import numpy as np\narray = np.array([1, 2, 3])",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Random forests are an ensemble learning method for classification.",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "def subtract(a, b):\n    return a - b",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "JavaScript was initially created to make web pages interactive.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "print(\"Python is fun!\")",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Hello, world!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "function greet() {\n    return \"Hello, World!\";\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Good morning!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "def multiply(a, b):\n    return a * b",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Have a great day!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "def divide(a, b):\n    if b != 0:\n        return a / b\n    else:\n        return None",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "See you soon!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "def exponent(a, b):\n    return a ** b",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Take care!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "function sayHello() {\n    console.log(\"Hello, World!\");\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Goodbye!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "console.log(\"JavaScript is fun!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Enjoy your day!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "System.out.println(\"Java is fun!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Farewell!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "int main() {\n    printf(\"Hello, World!\");\n    return 0;\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Good luck!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "#include <stdio.h>\nint main() {\n    printf(\"Hello, World!\");\n    return 0;\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Best wishes!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "console.log(\"Coding is great!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Stay positive!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "System.out.println(\"Keep coding!\");",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Stay safe!",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "def sample_function():\n    pass",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Sample text without code.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "int main() {\n    return 0;\n}",
+        "Prediction": "Source code Detected"
+    },
+    {
+        "Text": "Another example of regular text.",
+        "Prediction": "No Source code Detected"
+    },
+    {
+        "Text": "Yet another example of regular text.",
+        "Prediction": "No Source code Detected"
+    }
+]
